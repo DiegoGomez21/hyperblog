@@ -3,7 +3,7 @@ Un blog chimbita pal [**curso**](http://www.notion.so/Uso-del-gitignore-y-README
 >Soy un mensajito que se muestra al lado del un poco tipo nota para decirte que estas bien linda :3
 > - o lindo?
 
-##En este curso vimos de todo
+## En este curso vimos de todo
 En esta seccion vamos a entrar a algunos de talles de lista:
 * primer elemento
 * segundo elemento
